@@ -68,7 +68,7 @@ async def apk(e):
 
         app_details += "\n<code>Features :</code> <a href='"+app_link+"'>View in Play Store</a>"
 
-        app_details += "\n\n===> @Gujju_Bot_Support <==="
+        app_details += "\n\n===> Enjoy <==="
 
         await e.edit(app_details, link_preview = True, parse_mode = 'HTML')
 
